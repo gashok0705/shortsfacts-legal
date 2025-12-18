@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Privacy Policy - ShortsFacts</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Effective Date: 2025-12-17</p>
+
+  <h2>1. Introduction</h2>
+  <p>
+    ShortsFacts respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our services, including connecting your TikTok account through the Postiz platform.
+  </p>
+
+  <h2>2. Information We Collect</h2>
+  <p>We may collect the following information:</p>
+  <ul>
+    <li>TikTok account information (username, profile ID) necessary to post videos.</li>
+    <li>OAuth tokens for authorization to post on your behalf.</li>
+    <li>Basic usage data to ensure the app functions correctly (logs, errors).</li>
+  </ul>
+
+  <h2>3. How We Use Your Information</h2>
+  <p>Information collected is used solely to:</p>
+  <ul>
+    <li>Post videos from ShortsFacts to your TikTok account.</li>
+    <li>Provide and maintain our services.</li>
+    <li>Ensure security and prevent abuse.</li>
+  </ul>
+
+  <h2>4. Data Sharing</h2>
+  <p>We do <strong>not</strong> share your personal information with third parties for marketing purposes. We may share data with service providers only to operate our platform (e.g., hosting providers).</p>
+
+  <h2>5. Security</h2>
+  <p>We implement reasonable measures to protect your information. OAuth tokens are stored securely within the Postiz platform.</p>
+
+  <h2>6. TikTok Compliance</h2>
+  <p>
+    This app complies with TikTok's Developer Policies. We only use your TikTok account to publish content you authorize. You retain control and can revoke access at any time from TikTok’s account settings.
+  </p>
+
+  <h2>7. Your Rights</h2>
+  <p>You can request deletion of your data or revoke TikTok access at any time.</p>
+
+  <h2>8. Changes to this Policy</h2>
+  <p>We may update this Privacy Policy periodically. Changes will be reflected on this page.</p>
+
+  <p>Contact us: <a href="mailto:gashokraja0705@gmail.com">gashokraja0705@gmail.com</a></p>
+</body>
+</html>
